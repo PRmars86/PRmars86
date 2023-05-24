@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Upgrade
+- 🔭 I’m currently working on Personal proj
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

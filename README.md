@@ -12,8 +12,11 @@
   <img align="left" alt="PRmars's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+<br />
 
-  <img align="right" alt="GIF" src="https://github.com/PRmars86/PRmars86/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+hi, i'm [Pengrui Ma]().
 
 - 🔭 I’m currently working on Personal proj
 - 🌱 I’m currently learning Django

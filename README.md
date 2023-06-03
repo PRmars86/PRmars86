@@ -16,7 +16,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-hi, i'm [Pengrui Ma](https://prmars-github-io.vercel.app/).
+hi, i'm [Pengrui Ma](https://www.pengruima.com).
 
 - 🔭 I’m currently working on Personal proj
 - 🌱 I’m currently learning Django
